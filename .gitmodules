@@ -1,0 +1,3 @@
+[submodule "node-ar-drone"]
+	path = node-ar-drone
+	url = https://github.com/felixge/node-ar-drone.git
