@@ -1,0 +1,3 @@
+var clusterFinder = require(".clusterfinder");
+
+
